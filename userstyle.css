@@ -172,6 +172,7 @@ li.md-checkbox {
 /* Code blocks -------------------------------------------------------------- */
 pre {
     font-family: var(--font-mono) !important;
+    background: #3b3b3b !important;
 }
 
 a {
